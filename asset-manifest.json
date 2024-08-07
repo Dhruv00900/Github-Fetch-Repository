@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b3b183f.css",
-    "main.js": "/static/js/main.4d0f2916.js",
-    "static/js/787.97a945da.chunk.js": "/static/js/787.97a945da.chunk.js",
-    "static/media/bg1.png": "/static/media/bg1.34b2351f807344c57c14.png",
-    "index.html": "/index.html",
-    "main.8b3b183f.css.map": "/static/css/main.8b3b183f.css.map",
-    "main.4d0f2916.js.map": "/static/js/main.4d0f2916.js.map",
-    "787.97a945da.chunk.js.map": "/static/js/787.97a945da.chunk.js.map"
+    "main.css": "/Github-Fetch-Repository/static/css/main.7e7800b6.css",
+    "main.js": "/Github-Fetch-Repository/static/js/main.4f4e7a25.js",
+    "static/js/787.97a945da.chunk.js": "/Github-Fetch-Repository/static/js/787.97a945da.chunk.js",
+    "static/media/bg1.png": "/Github-Fetch-Repository/static/media/bg1.34b2351f807344c57c14.png",
+    "index.html": "/Github-Fetch-Repository/index.html",
+    "main.7e7800b6.css.map": "/Github-Fetch-Repository/static/css/main.7e7800b6.css.map",
+    "main.4f4e7a25.js.map": "/Github-Fetch-Repository/static/js/main.4f4e7a25.js.map",
+    "787.97a945da.chunk.js.map": "/Github-Fetch-Repository/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b3b183f.css",
-    "static/js/main.4d0f2916.js"
+    "static/css/main.7e7800b6.css",
+    "static/js/main.4f4e7a25.js"
   ]
 }
